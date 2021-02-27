@@ -116,3 +116,4 @@ def train_(base_path):
     
 if __name__ == '__main__':
     train_(base_path)
+    print("management the project using Git")
